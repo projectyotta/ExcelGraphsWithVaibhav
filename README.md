@@ -2,7 +2,7 @@
 
 Microsoft Excel doesn't get the kind of credit that it honestly deserves. This was a 2 AM happy me drunk idea, where my love for Excel was overflowing. 
 
-Manufactured raw data which I think accurately models how one of my friend behaves, and then graphed them using MS Excel 2007. 
+Manufactured raw data which I think accurately models how one of my friend behaves, and then graphed them using MS Excel. 
 
 #ExcelLove 
 
